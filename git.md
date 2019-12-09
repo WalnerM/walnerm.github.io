@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Git
+title: /Git
 author: Leandro Chiarini and Walner Mendonça
 permalink: /git/
 ---
