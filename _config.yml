@@ -38,7 +38,7 @@ header_pages:
   - about.md
   - publications.md
   - teaching.md
-  - wtf-is-git.md
+  - git.md
 
 style: dark # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)

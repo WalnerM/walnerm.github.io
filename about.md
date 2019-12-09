@@ -16,16 +16,16 @@ I earned a master’s degree in Mathematics in 2016 at Universidade Federal do C
 
 
 ## Co-authors:
-  - Pedro Araújo
-  - Sören Berger
-  - Jan Corsten
-  - Yoshiharu Kohayakawa (3x)
-  - Anita Liebenau
-  - Giulia S. Maesaka
-  - Taísa Martins (2x)
-  - Letícia Mattos (2x)
-  - Luiz Moreira
-  - Guilherme O. Mota (3x)
-  - Olaf Parczyk
-  - Bjarne Schülke
-  - Jozef Skokan
+  1. Pedro Araújo
+  2. Sören Berger
+  3. Jan Corsten
+  4. Yoshiharu Kohayakawa (3x)
+  5. Anita Liebenau
+  6. Giulia S. Maesaka
+  7. Taísa Martins (2x)
+  8. Letícia Mattos (2x)
+  9. Luiz Moreira
+  10. Guilherme O. Mota (3x)
+  11. Olaf Parczyk
+  12. Bjarne Schülke
+  13. Jozef Skokan

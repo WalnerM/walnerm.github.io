@@ -2,14 +2,17 @@
 layout: page
 title: Git
 author: Leandro Chiarini and Walner Mendonça
-permalink: /wtf-is-git/
+permalink: /git/
 ---
 
 > # What is Git and why you should care?
 
 >> By Leandro Chiarini and Walner Mendonça
 
+<br/><br/>
+
 -------------------------------------------------------------------------------
+
 
 # What is it? What is it for?
 
@@ -17,7 +20,10 @@ permalink: /wtf-is-git/
   designed to handle everything  from small to very large projects
   with speed and efficiency. "
 
+<br/><br/>
+
 -------------------------------------------------------------------------------
+
 
 # Advantages when compared to Dropbox-like services
 
@@ -27,7 +33,10 @@ permalink: /wtf-is-git/
 - git was made for collaborative coding
 - git can be hosted locally or on multiple web services
 
+<br/><br/>
+
 -------------------------------------------------------------------------------
+
 
 # Shell basic commands
 
@@ -57,7 +66,10 @@ permalink: /wtf-is-git/
 | man     | Show manual instructions for a command. | man command           |
 |---------|-----------------------------------------|-----------------------|
 
+<br/><br/>
+
 -------------------------------------------------------------------------------
+
 
 ## Configuring git on Linux/Mac
 
@@ -76,7 +88,10 @@ $ git config --global core.editor "nano"
 -   Gitbash
 -   Powershell
 
+<br/><br/>
+
 -------------------------------------------------------------------------------
+
 
 # Don't panic!
 
@@ -85,7 +100,7 @@ $ git config --global core.editor "nano"
 ```console
 $ git config --help
 ```
-
+<br/><br/>
 
 - Too long; didn't read...
 
@@ -94,7 +109,10 @@ $ sudo apt-get install tldr
 $ tldr git config 
 ```
 
+<br/><br/>
+
 -------------------------------------------------------------------------------
+
 
 # Setting a local repository
 
@@ -108,7 +126,7 @@ $ mkdir path/to/the/new/repository
 $ cd path/to/the/new/repository
 $ git init
 ```
-
+<br/><br/>
 
 *git clone*
 
@@ -119,6 +137,7 @@ $ cd path/to/where/we/should/put/the/repository
 $ git clone https://remote/repository/location/
 ```
 
+<br/><br/>
 
 *.gitignore*
 
@@ -128,7 +147,10 @@ $ git clone https://remote/repository/location/
 $ nano .gitignore
 ```
 
+<br/><br/>
+
 -------------------------------------------------------------------------------
+
 
 # Basic commands
 
@@ -150,6 +172,7 @@ Changes not staged for commit:
 	deleted:    Presentation/slides.tex
 ```
 
+<br/><br/>
 
 *git add*
 
@@ -161,9 +184,7 @@ $ git add *
 $ git add -f fig1.pdf
 ```
 
--------------------------------------------------------------------------------
-
-# Basic commands
+<br/><br/>
 
 *git diff --cached*
 
@@ -173,6 +194,7 @@ $ git add -f fig1.pdf
 $ git diff prez.md
 ```
 
+<br/><br/>
 
 *git commit*
 
@@ -184,6 +206,7 @@ $ git commit -m "Change slide about basic workflow"
 $ git commit -m -a "Add another slide about basic workflow"
 ```
 
+<br/><br/>
 
 *git commit --amend*
 
@@ -193,9 +216,7 @@ $ git commit -m -a "Add another slide about basic workflow"
 $ git commit --amend
 ```
 
--------------------------------------------------------------------------------
-
-# Basic commands
+<br/><br/>
 
 *git log*
 
@@ -223,7 +244,10 @@ d204c19b067dce9ddb784320 Merge remote-tracking branch 'origin/master'
 e902641bc88c296ae4e02264 Adding ordem.org
 ```
 
+<br/><br/>
+
 -------------------------------------------------------------------------------
+
 
 # Working with a remote repository
 
@@ -237,6 +261,7 @@ $ git remote add remote_name https://host-url.com/remote-repository
 $ git remote remove origin
 ```
 
+<br/><br/>
 
 *git push*
 
@@ -248,6 +273,7 @@ $ git push -u origin master
 $ git push
 ```
 
+<br/><br/>
 
 *git pull*
 
@@ -259,7 +285,10 @@ merging (we will show this in a minute).
 $ git pull
 ```
 
+<br/><br/>
+
 -------------------------------------------------------------------------------
+
 
 # Basic workflow
 
@@ -285,7 +314,10 @@ $ git pull
   10. Go to bed, you deserve some rest :)
 
 
+<br/><br/>
+
 -------------------------------------------------------------------------------
+
 
 # Branching
 
@@ -303,6 +335,7 @@ $ git checkout *
 $ git checkout b6120565229d4c87fe492ecdff75e8f7e3c8751d
 ```
 
+<br/><br/>
 
 *git branch*
 
@@ -316,10 +349,7 @@ $ git branch -d branch_to_be_deleted
 $ git branch -m old_branch_name new_branch_name
 ```
 
--------------------------------------------------------------------------------
-
-# Branching
-
+<br/><br/>
 
 *git merge*
 
@@ -329,6 +359,7 @@ $ git branch -m old_branch_name new_branch_name
 $ git merge branch_name 
 ```
 
+<br/><br/>
 
 *git rebase*
 
@@ -341,34 +372,33 @@ $ git checkout branch_name
 $ git rebase master
 ```
 
+<br/><br/>
+
 -------------------------------------------------------------------------------
+
 
 # Resolving conflicts
 
 - You get a conflict!
-
 - Check your status: *git status*
-
 - Look for the conflicts in the files.
-
-```console
-<<<<<<< HEAD
-This text is in the HEAD.
-=======
-This text is changed in the branch Ramo.
->>>>>>> Ramo
-```
-
+>  ```console
+>  <<<<<<< HEAD
+>  This text is in the HEAD.
+>  =======
+>  This text is changed in the branch Ramo.
+>  >>>>>>> Ramo
+>  ```
 - Fix the conflicts.
-
 - Get the changed files ready for commit: *git add*
-
 - Once done: *git commit*
-
 - If you regret it: *git merge --abort*
 
 
+<br/><br/>
+
 -------------------------------------------------------------------------------
+
 
 # Extra useful commands
 
@@ -382,6 +412,7 @@ $ git revert @
 $ git revert -n master~2
 ```
 
+<br/><br/>
 
 *git reset*
 
@@ -392,6 +423,7 @@ $ git reset HEAD~
 $ git reset --hard HEAD~
 ```
 
+<br/><br/>
 
 *git stash*
 
@@ -402,10 +434,7 @@ $ git stash
 $ git stash pop
 ```
 
--------------------------------------------------------------------------------
-
-# Extra useful commands
-
+<br/><br/>
 
 *git blame*
 
@@ -415,6 +444,7 @@ $ git stash pop
 $ git blame file
 ```
 
+<br/><br/>
 
 *git tag*
 
@@ -429,16 +459,15 @@ $ git push --tags
 $ git fetch --tags
 ```
 
+<br/><br/>
+
 -------------------------------------------------------------------------------
+
 
 # Website and tools
 
  + [Atlasian](https://www.atlassian.com/git/tutorials)
- 
  + [The simple guide](https://rogerdudler.github.io/git-guide/)
- 
  + [Git-scm](https://git-scm.com/docs/gittutorial)
- 
  + [.gitignore generator](https://www.gitignore.io/)
- 
  + [Overleaf](https://www.overleaf.com)
