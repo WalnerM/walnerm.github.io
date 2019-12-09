@@ -4,6 +4,6 @@ layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+# Walner Mendonça
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a final-year PhD student in pure mathematics at [IMPA](https://impa.br/en_US/), in Rio de Janeiro, Brazil, under the supervision of [Rob Morris](http://w3.impa.br/~rob/). My research interests are in the areas of extremal and probabilistic combinatorics, Ramsey theory and random graphs.
