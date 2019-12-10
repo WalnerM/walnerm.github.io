@@ -30,5 +30,5 @@ With P. Araújo, Y. Kohayakawa, T. Martins, L. Mattos, L. Moreira, and G. O. Mot
 *In preparation.
 
 ## On Ramsey property for random graphs
-W. Mendonça
+W. Mendonça.
 *[Master's thesis](master_thesis.pdf). Universidade Federal do Ceará, 2016.*

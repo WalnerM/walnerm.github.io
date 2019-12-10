@@ -14,11 +14,10 @@ permalink: /teaching/
 - Professor: Rob Morris
 
 ## Topics in Extremal and Probabilistic Combinatorics (2018)
-- Professors: Roberto Imbuzeiro, Simon Griffiths and Bruce Reed
+- Professors: Roberto Oliveira, Simon Griffiths and Bruce Reed
 
 ## Combinatória I (2017)
 - Professor: Rob Morris
-
 
 ## Cálculo II (2016)
 - Professor: Vincent Grandjean
