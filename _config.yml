@@ -39,6 +39,7 @@ header_pages:
   - publications.md
   - teaching.md
   - git.md
+  - office.md
 
 style: dark # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)

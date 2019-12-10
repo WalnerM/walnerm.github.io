@@ -14,7 +14,6 @@ I earned a master’s degree in Mathematics in 2016 at Universidade Federal do C
  - Ramsey theory
  - Random graphs
 
-
 ## Co-authors:
   1. Pedro Araújo
   2. Sören Berger
