@@ -15,19 +15,149 @@ I earned a master’s degree in Mathematics in 2016 at Universidade Federal do C
  - Random graphs
 
 ## Co-authors:
+
+<div class="collapsible">
   1. Pedro Araújo
+</div>
+<div class="content">
+<br/>
+{% include_relative publications/anti-Ramsey.html %}
+<br/>
+</div>
+
+<div class="collapsible">
   2. Sören Berger
+</div>
+<div class="content">
+<br/>
+{% include_relative publications/size-Ramsey.html %}
+<br/>
+</div>
+
+<div class="collapsible">
   3. Jan Corsten
+</div>
+<div class="content">
+<br/>
+{% include_relative publications/tiling.html %}
+<br/>
+</div>
+
+
+<div class="collapsible">
   4. Yoshiharu Kohayakawa <!-- (3x) -->
+</div>
+<div class="content">
+<br/>
+{% include_relative publications/size-Ramsey.html %}
+<br/>
+{% include_relative publications/monotrees.html %}
+<br/>
+{% include_relative publications/anti-Ramsey.html %}
+<br/>
+</div>
+
+
+<div class="collapsible">
   5. Anita Liebenau
+</div>
+<div class="content">
+<br/>
+{% include_relative publications/0statement.html %}
+<br/>
+</div>
+
+
+<div class="collapsible">
   6. Giulia S. Maesaka
+</div>
+<div class="content">
+<br/>
+{% include_relative publications/size-Ramsey.html %}
+<br/>
+</div>
+
+
+<div class="collapsible">
   7. Taísa Martins <!-- (2x) -->
+</div>
+<div class="content">
+<br/>
+{% include_relative publications/size-Ramsey.html %}
+<br/>
+{% include_relative publications/anti-Ramsey.html %}
+<br/>
+</div>
+
+
+<div class="collapsible">
   8. Letícia Mattos <!-- (2x) -->
+</div>
+<div class="content">
+<br/>
+{% include_relative publications/0statement.html %}
+<br/>
+{% include_relative publications/anti-Ramsey.html %}
+<br/>
+</div>
+
+
+<div class="collapsible">
   9. Luiz Moreira
+</div>
+<div class="content">
+<br/>
+{% include_relative publications/anti-Ramsey.html %}
+<br/>
+</div>
+
+
+<div class="collapsible">
   10. Guilherme O. Mota <!-- (3x) -->
+</div>
+<div class="content">
+<br/>
+{% include_relative publications/size-Ramsey.html %}
+<br/>
+{% include_relative publications/monotrees.html %}
+<br/>
+{% include_relative publications/anti-Ramsey.html %}
+<br/>
+</div>
+
+
+<div class="collapsible">
   11. Olaf Parczyk
+</div>
+<div class="content">
+<br/>
+{% include_relative publications/size-Ramsey.html %}
+<br/>
+</div>
+
+
+<div class="collapsible">
   12. Bjarne Schülke
+</div>
+<div class="content">
+<br/>
+{% include_relative publications/monotrees.html %}
+<br/>
+</div>
+
+
+<div class="collapsible">
   13. Jozef Skokan
+</div>
+<div class="content">
+<br/>
+{% include_relative publications/0statement.html %}
+<br/>
+</div>
+
+
+<script src="{{site.baseurl}}/assets/collapsible.js"></script>
+
 
 ## Conferences:
   1. [3º WoPOCA](http://professor.ufabc.edu.br/~carla.negri/wopoca2019/). São Paulo, Brazil. Sep 4-8, 2019.
