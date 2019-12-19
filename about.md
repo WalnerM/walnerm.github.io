@@ -16,27 +16,34 @@ I earned a master’s degree in Mathematics in 2016 at Universidade Federal do C
 
 ## Co-authors:
 
+<ol type="1">
+<li>
 <div class="collapsible">
-  1. Pedro Araújo
+  Pedro Araújo
 </div>
+</li>
 <div class="content">
 <br/>
 {% include_relative publications/anti-Ramsey.html %}
 <br/>
 </div>
 
+<li>
 <div class="collapsible">
-  2. Sören Berger
+  Sören Berger
 </div>
+</li>
 <div class="content">
 <br/>
 {% include_relative publications/size-Ramsey.html %}
 <br/>
 </div>
 
+<li>
 <div class="collapsible">
-  3. Jan Corsten
+  Jan Corsten
 </div>
+</li>
 <div class="content">
 <br/>
 {% include_relative publications/tiling.html %}
@@ -44,9 +51,11 @@ I earned a master’s degree in Mathematics in 2016 at Universidade Federal do C
 </div>
 
 
+<li>
 <div class="collapsible">
-  4. Yoshiharu Kohayakawa <!-- (3x) -->
+  Yoshiharu Kohayakawa 
 </div>
+</li>
 <div class="content">
 <br/>
 {% include_relative publications/size-Ramsey.html %}
@@ -58,9 +67,11 @@ I earned a master’s degree in Mathematics in 2016 at Universidade Federal do C
 </div>
 
 
+<li>
 <div class="collapsible">
-  5. Anita Liebenau
+  Anita Liebenau
 </div>
+</li>
 <div class="content">
 <br/>
 {% include_relative publications/0statement.html %}
@@ -68,9 +79,11 @@ I earned a master’s degree in Mathematics in 2016 at Universidade Federal do C
 </div>
 
 
+<li>
 <div class="collapsible">
-  6. Giulia S. Maesaka
+  Giulia S. Maesaka
 </div>
+</li>
 <div class="content">
 <br/>
 {% include_relative publications/size-Ramsey.html %}
@@ -78,9 +91,11 @@ I earned a master’s degree in Mathematics in 2016 at Universidade Federal do C
 </div>
 
 
+<li>
 <div class="collapsible">
-  7. Taísa Martins <!-- (2x) -->
+  Taísa Martins 
 </div>
+</li>
 <div class="content">
 <br/>
 {% include_relative publications/size-Ramsey.html %}
@@ -90,9 +105,11 @@ I earned a master’s degree in Mathematics in 2016 at Universidade Federal do C
 </div>
 
 
+<li>
 <div class="collapsible">
-  8. Letícia Mattos <!-- (2x) -->
+  Letícia Mattos 
 </div>
+</li>
 <div class="content">
 <br/>
 {% include_relative publications/0statement.html %}
@@ -102,9 +119,11 @@ I earned a master’s degree in Mathematics in 2016 at Universidade Federal do C
 </div>
 
 
+<li>
 <div class="collapsible">
-  9. Luiz Moreira
+  Luiz Moreira
 </div>
+</li>
 <div class="content">
 <br/>
 {% include_relative publications/anti-Ramsey.html %}
@@ -112,9 +131,11 @@ I earned a master’s degree in Mathematics in 2016 at Universidade Federal do C
 </div>
 
 
+<li>
 <div class="collapsible">
-  10. Guilherme O. Mota <!-- (3x) -->
+  Guilherme O. Mota 
 </div>
+</li>
 <div class="content">
 <br/>
 {% include_relative publications/size-Ramsey.html %}
@@ -126,9 +147,11 @@ I earned a master’s degree in Mathematics in 2016 at Universidade Federal do C
 </div>
 
 
+<li>
 <div class="collapsible">
-  11. Olaf Parczyk
+  Olaf Parczyk
 </div>
+</li>
 <div class="content">
 <br/>
 {% include_relative publications/size-Ramsey.html %}
@@ -136,9 +159,11 @@ I earned a master’s degree in Mathematics in 2016 at Universidade Federal do C
 </div>
 
 
+<li>
 <div class="collapsible">
-  12. Bjarne Schülke
+  Bjarne Schülke
 </div>
+</li>
 <div class="content">
 <br/>
 {% include_relative publications/monotrees.html %}
@@ -146,15 +171,17 @@ I earned a master’s degree in Mathematics in 2016 at Universidade Federal do C
 </div>
 
 
+<li>
 <div class="collapsible">
-  13. Jozef Skokan
+  Jozef Skokan
 </div>
+</li>
 <div class="content">
 <br/>
 {% include_relative publications/0statement.html %}
 <br/>
 </div>
-
+</ol>
 
 <script src="{{site.baseurl}}/assets/collapsible.js"></script>
 
@@ -170,6 +197,6 @@ I earned a master’s degree in Mathematics in 2016 at Universidade Federal do C
   8. [XXI EBP](https://impa.br/eventos-do-impa/eventos-2017/xxi-escola-brasileira-de-probabilidade/). Rio de Janeiro, Brazil. Jul 31 - Aug 5, 2017.
   9. [31º CBM](https://impa.br/eventos-do-impa/eventos-2017/31o-coloquio-brasileiro-de-matematica/). Rio de Janeiro, Brazil. Jul 30 - Aug 5, 2017.
   10. [Summer School on Random Graphs and Probabilistic Methods](http://www.fields.utoronto.ca/activities/16-17/randomgraphs-summerschool). Toronto, Canada. May 29 - Jun 9, 2017.
-  11. [São Paulo School of Advanced Science on Algorithms](https://www.ime.usp.br/~spschool2016/). Combinatorics and Optimization, São Paulo. Brazil, Jul 18-29, 2016.
+  11. [São Paulo School of Advanced Science on Algorithms, Combinatorics and Optimization](https://www.ime.usp.br/~spschool2016/). São Paulo, Brazil, Jul 18-29, 2016.
   12. [II GCO](http://www.lia.ufc.br/GCO2016/index_br.php). Praia Redonda, Brazil. Mar 28 - Apr 1, 2016
   13. [VIII LAGOS](http://www.lia.ufc.br/lagos2015/). Praia das Fontes, Brazil. May 11-15, 2015
