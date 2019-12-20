@@ -16,7 +16,7 @@ I earned a master’s degree in Mathematics in 2016 at Universidade Federal do C
 
 ## Co-authors:
 
-<ol type="1">
+<ol>
 <li>
 <div class="collapsible">
   Pedro Araújo
