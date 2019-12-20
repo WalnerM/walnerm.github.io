@@ -21,41 +21,40 @@ I earned a master’s degree in Mathematics in 2016 at Universidade Federal do C
 <div class="collapsible">
   Pedro Araújo
 </div>
-</li>
 <div class="content">
 <br/>
 {% include_relative publications/anti-Ramsey.html %}
 <br/>
 </div>
+</li>
 
 <li>
 <div class="collapsible">
   Sören Berger
 </div>
-</li>
 <div class="content">
 <br/>
 {% include_relative publications/size-Ramsey.html %}
 <br/>
 </div>
+</li>
 
 <li>
 <div class="collapsible">
   Jan Corsten
 </div>
-</li>
 <div class="content">
 <br/>
 {% include_relative publications/tiling.html %}
 <br/>
 </div>
+</li>
 
 
 <li>
 <div class="collapsible">
   Yoshiharu Kohayakawa 
 </div>
-</li>
 <div class="content">
 <br/>
 {% include_relative publications/size-Ramsey.html %}
@@ -65,37 +64,37 @@ I earned a master’s degree in Mathematics in 2016 at Universidade Federal do C
 {% include_relative publications/anti-Ramsey.html %}
 <br/>
 </div>
+</li>
 
 
 <li>
 <div class="collapsible">
   Anita Liebenau
 </div>
-</li>
 <div class="content">
 <br/>
 {% include_relative publications/0statement.html %}
 <br/>
 </div>
+</li>
 
 
 <li>
 <div class="collapsible">
   Giulia S. Maesaka
 </div>
-</li>
 <div class="content">
 <br/>
 {% include_relative publications/size-Ramsey.html %}
 <br/>
 </div>
+</li>
 
 
 <li>
 <div class="collapsible">
   Taísa Martins 
 </div>
-</li>
 <div class="content">
 <br/>
 {% include_relative publications/size-Ramsey.html %}
@@ -103,13 +102,13 @@ I earned a master’s degree in Mathematics in 2016 at Universidade Federal do C
 {% include_relative publications/anti-Ramsey.html %}
 <br/>
 </div>
+</li>
 
 
 <li>
 <div class="collapsible">
   Letícia Mattos 
 </div>
-</li>
 <div class="content">
 <br/>
 {% include_relative publications/0statement.html %}
@@ -117,25 +116,25 @@ I earned a master’s degree in Mathematics in 2016 at Universidade Federal do C
 {% include_relative publications/anti-Ramsey.html %}
 <br/>
 </div>
+</li>
 
 
 <li>
 <div class="collapsible">
   Luiz Moreira
 </div>
-</li>
 <div class="content">
 <br/>
 {% include_relative publications/anti-Ramsey.html %}
 <br/>
 </div>
+</li>
 
 
 <li>
 <div class="collapsible">
   Guilherme O. Mota 
 </div>
-</li>
 <div class="content">
 <br/>
 {% include_relative publications/size-Ramsey.html %}
@@ -145,42 +144,43 @@ I earned a master’s degree in Mathematics in 2016 at Universidade Federal do C
 {% include_relative publications/anti-Ramsey.html %}
 <br/>
 </div>
+</li>
 
 
 <li>
 <div class="collapsible">
   Olaf Parczyk
 </div>
-</li>
 <div class="content">
 <br/>
 {% include_relative publications/size-Ramsey.html %}
 <br/>
 </div>
+</li>
 
 
 <li>
 <div class="collapsible">
   Bjarne Schülke
 </div>
-</li>
 <div class="content">
 <br/>
 {% include_relative publications/monotrees.html %}
 <br/>
 </div>
+</li>
 
 
 <li>
 <div class="collapsible">
   Jozef Skokan
 </div>
-</li>
 <div class="content">
 <br/>
 {% include_relative publications/0statement.html %}
 <br/>
 </div>
+</li>
 </ol>
 
 <script src="{{site.baseurl}}/assets/collapsible.js"></script>
