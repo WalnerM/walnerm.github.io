@@ -6,6 +6,8 @@ permalink: /teaching/
 
 # Monitoria:
 
+## [Combinatória I]({{site.baseurl}}/teaching/combinatoriaI2020) (2020)
+- Professor: Rob Morris
 
 ## Combinatória I (2019)
 - Professor: Rob Morris
