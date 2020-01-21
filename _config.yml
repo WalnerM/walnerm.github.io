@@ -45,7 +45,7 @@ listen_for_clients_preferred_style: true # true or false (default)
 
 footer: 'Walner Mendonça'
 
-google_analytics: UA-154360761-1
+google_analytics: UA-154360761-2
 
 plugins:
   - jekyll-feed

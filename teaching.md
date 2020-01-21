@@ -4,22 +4,11 @@ title: /Teaching
 permalink: /teaching/
 ---
 
-# Monitoria:
+# Monitorias (TA):
 
-## [Combinatória I]({{site.baseurl}}/teaching/combinatoriaI2020) (2020)
-- Professor: Rob Morris
-
-## Combinatória I (2019)
-- Professor: Rob Morris
-
-## Combinatória I (2018)
-- Professor: Rob Morris
-
-## Topics in Extremal and Probabilistic Combinatorics (2018)
-- Professors: Roberto Oliveira, Simon Griffiths and Bruce Reed
-
-## Combinatória I (2017)
-- Professor: Rob Morris
-
-## Cálculo II (2016)
-- Professor: Vincent Grandjean
+  - [Combinatória I]({{site.baseurl}}/teaching/combinatoriaI2020) (2020)
+  - [Introdução à Análise]({{site.baseurl}}/teaching/analise2020) (2020)
+  - [Combinatória I]({{site.baseurl}}/teaching/combinatoriaI2019) (2019)
+  - [Topics in Extremal and Probabilistic Combinatorics]({{site.baseurl}}/teaching/topics2018) (2018)
+  - [Combinatória I]({{site.baseurl}}/teaching/combinatoriaI2017) (2017)
+  - Cálculo II (2016)
