@@ -53,9 +53,11 @@ Course [description](https://impa.br/ensino/programas-de-formacao/mestrado-acade
 </table>
 
 <p>
-Last updated: 21/01/2020.
+Last updated: <span id="updated"></span>.
 </p>
-
+<script>
+document.getElementById("updated").innerHTML = document.lastModified;
+</script>
 <p>
 If you have any problem that you would like to discuss in the monitoria, you are encouraged to send me the problem by <a href="{{ site.baseurl }}/office">email</a> so I can have some thought about it before the sessions.
 </p>
