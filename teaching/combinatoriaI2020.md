@@ -25,12 +25,12 @@ Course [description](https://impa.br/ensino/programas-de-formacao/mestrado-acade
     <th>Time</th> 
     <th>Room</th> 
   </tr>
-  <tr>
+  <tr class="strikeout">
     <td>Jan 21</td>
     <td>17h-19h</td>
     <td>224</td>
   </tr>
-  <tr>
+  <tr class="strikeout">
     <td>Jan 28</td>
     <td>10h-12h</td>
     <td>232</td>

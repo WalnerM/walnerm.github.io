@@ -199,3 +199,34 @@ a:active {
     display: none;
     overflow: hidden;
 }
+
+table {
+    border-collapse: collapse;
+    empty-cells: show;
+    width: 200px;
+}
+
+td, th {
+    position: relative;
+    width: auto;
+    text-align: left;
+}
+
+td.center {
+    text-align: center;
+    width: auto;
+}
+
+tr.strikeout td:before {
+    content: " ";
+    position: absolute;
+    top: 50%;
+    left: 0;
+    border-bottom: 1px solid DarkGray;
+    width: 100%;
+}
+
+tr.strikeout td:after {
+    content: "\00B7";
+    font-size: 1px;
+}
