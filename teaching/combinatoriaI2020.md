@@ -35,10 +35,10 @@ Course [description](https://impa.br/ensino/programas-de-formacao/mestrado-acade
     <td>10h-12h</td>
     <td>232</td>
   </tr>
-  <tr>
+  <tr class="strikeout">
     <td>Feb 4</td>
-    <td>17h-19h</td>
-    <td>224</td>
+    <td>10h-12h</td>
+    <td>232</td>
   </tr>
   <tr>
     <td>Feb 11</td>
