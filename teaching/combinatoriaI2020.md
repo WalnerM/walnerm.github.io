@@ -15,6 +15,7 @@ Course [description](https://impa.br/ensino/programas-de-formacao/mestrado-acade
 
 ## Listas de exercícios:
 - [Lista 1]({{site.baseurl}}/teaching/CombinatoriaI2020-lista1.pdf)
+- [Lista 2]({{site.baseurl}}/teaching/CombinatoriaI2020-lista2.pdf)
 
 
 
@@ -40,12 +41,17 @@ Course [description](https://impa.br/ensino/programas-de-formacao/mestrado-acade
     <td>10h-12h</td>
     <td>232</td>
   </tr>
-  <tr>
+  <tr class="strikeout">
     <td>Feb 11</td>
-    <td>10h-12h</td>
-    <td>232</td>
+    <td>17h-19h</td>
+    <td>224</td>
   </tr>
-  <tr>
+  <tr class="strikeout">
+    <td>Feb 14</td>
+    <td>17h-19h</td>
+    <td>224</td>
+  </tr>
+  <tr class="strikeout">
     <td>Feb 18</td>
     <td>17h-19h</td>
     <td>224</td>
