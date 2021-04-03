@@ -20,85 +20,85 @@ I completed my PhD in Mathematics in 2020 at [IMPA](https://impa.br/en_US/), in 
 <li><div class="collapsible">
   Pedro Araújo
 </div><div class="content">
-<br/>{% include_relative publications/anti-Ramsey.html %}
+<br/>{% include_relative publications/articles/anti-Ramsey.html %}
 <br/></div></li>
 
 <li><div class="collapsible">
   Sören Berger
 </div><div class="content">
-<br/>{% include_relative publications/size-Ramsey.html %}
+<br/>{% include_relative publications/articles/size-Ramsey.html %}
 <br/></div></li>
 
 <li><div class="collapsible">
   Jan Corsten
 </div><div class="content">
-<br/>{% include_relative publications/tiling.html %}
+<br/>{% include_relative publications/articles/tiling.html %}
 <br/></div></li>
 
 <li><div class="collapsible">
   Yoshiharu Kohayakawa 
 </div><div class="content">
-<br/>{% include_relative publications/size-Ramsey.html %}
-<br/>{% include_relative publications/monotrees.html %}
-<br/>{% include_relative publications/anti-Ramsey.html %}
+<br/>{% include_relative publications/articles/size-Ramsey.html %}
+<br/>{% include_relative publications/articles/monotrees.html %}
+<br/>{% include_relative publications/articles/anti-Ramsey.html %}
 <br/></div></li>
 
 <li><div class="collapsible">
   Anita Liebenau
 </div><div class="content">
-<br/>{% include_relative publications/0statement.html %}
+<br/>{% include_relative publications/articles/0statement.html %}
 <br/></div></li>
 
 <li><div class="collapsible">
   Giulia S. Maesaka
 </div><div class="content">
-<br/>{% include_relative publications/size-Ramsey.html %}
+<br/>{% include_relative publications/articles/size-Ramsey.html %}
 <br/></div></li>
 
 <li><div class="collapsible">
   Taísa Martins 
 </div><div class="content">
-<br/>{% include_relative publications/size-Ramsey.html %}
-<br/>{% include_relative publications/anti-Ramsey.html %}
+<br/>{% include_relative publications/articles/size-Ramsey.html %}
+<br/>{% include_relative publications/articles/anti-Ramsey.html %}
 <br/></div></li>
 
 <li><div class="collapsible">
   Letícia Mattos 
 </div><div class="content">
-<br/>{% include_relative publications/0statement.html %}
-<br/>{% include_relative publications/anti-Ramsey.html %}
+<br/>{% include_relative publications/articles/0statement.html %}
+<br/>{% include_relative publications/articles/anti-Ramsey.html %}
 <br/></div></li>
 
 <li><div class="collapsible">
   Luiz Moreira
 </div><div class="content">
-<br/>{% include_relative publications/anti-Ramsey.html %}
+<br/>{% include_relative publications/articles/anti-Ramsey.html %}
 <br/></div></li>
 
 <li><div class="collapsible">
   Guilherme O. Mota 
 </div><div class="content">
-<br/>{% include_relative publications/size-Ramsey.html %}
-<br/>{% include_relative publications/monotrees.html %}
-<br/>{% include_relative publications/anti-Ramsey.html %}
+<br/>{% include_relative publications/articles/size-Ramsey.html %}
+<br/>{% include_relative publications/articles/monotrees.html %}
+<br/>{% include_relative publications/articles/anti-Ramsey.html %}
 <br/></div></li>
 
 <li><div class="collapsible">
   Olaf Parczyk
 </div><div class="content">
-<br/>{% include_relative publications/size-Ramsey.html %}
+<br/>{% include_relative publications/articles/size-Ramsey.html %}
 <br/></div></li>
 
 <li><div class="collapsible">
   Bjarne Schülke
 </div><div class="content">
-<br/>{% include_relative publications/monotrees.html %}
+<br/>{% include_relative publications/articles/monotrees.html %}
 <br/></div></li>
 
 <li><div class="collapsible">
   Jozef Skokan
 </div><div class="content">
-<br/>{% include_relative publications/0statement.html %}
+<br/>{% include_relative publications/articles/0statement.html %}
 <br/></div></li>
 </ol>
 
