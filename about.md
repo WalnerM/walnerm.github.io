@@ -4,10 +4,10 @@ title: /About
 permalink: /about/
 ---
 ## Currently:
-I am a final-year PhD student in pure mathematics at [IMPA](https://impa.br/en_US/), in Rio de Janeiro, Brazil, under the supervision of [Rob Morris](http://w3.impa.br/~rob/).
+I am a postdoctoral research fellow at the [Mathematics Institute](https://warwick.ac.uk/fac/sci/maths/) at the University of Warwick under the supervision of [Hong Liu](http://homepages.warwick.ac.uk/staff/H.Liu.9/).
 
 ## Previously:
-I earned a master’s degree in Mathematics in 2016 at Universidade Federal do Ceará (UFC) under the supervision of Fabricio Benevides. In 2014, I received a Bachelor’s degree in Mathematics with honour at the same institution.
+I completed my PhD in Mathematics in 2020 at [IMPA](https://impa.br/en_US/), in Rio de Janeiro, Brazil, under the supervision of [Rob Morris](http://w3.impa.br/~rob/). I did my undergraduate studies at the [Federal University of Ceará](http://www.mat.ufc.br/), in Fortaleza, Brazil, under the supervision of Fabricio Benevides.
 
 ## Research interests:
  - Extremal and probabilistic combinatorics
