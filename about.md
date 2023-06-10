@@ -4,10 +4,12 @@ title: /About
 permalink: /about/
 ---
 ## Currently:
-I am a postdoctoral research fellow at the [Mathematics Institute](https://warwick.ac.uk/fac/sci/maths/) at the University of Warwick under the supervision of [Hong Liu](http://homepages.warwick.ac.uk/staff/H.Liu.9/).
+I am a visiting the Combinatorics group at [IMPA](https://impa.br/en_US/).
 
 ## Previously:
-I completed my PhD in Mathematics in 2020 at [IMPA](https://impa.br/en_US/), in Rio de Janeiro, Brazil, under the supervision of [Rob Morris](http://w3.impa.br/~rob/). I did my undergraduate studies at the [Federal University of Ceará](http://www.mat.ufc.br/), in Fortaleza, Brazil, under the supervision of [Fabricio Benevides](http://www.mat.ufc.br/~fabricio/).
+ - Postdoc Researcher at [IST Austria](https://ist.ac.at/home), in Klosterneuburg, Austria.
+ - Doctorate student at [IMPA](https://impa.br/en_US/), in Rio de Janeiro, Brazil.
+ - Graduate and Master student at [UFC](http://www.mat.ufc.br/), in Fortaleza, Brazil.
 
 ## Research interests:
  - Extremal and probabilistic combinatorics

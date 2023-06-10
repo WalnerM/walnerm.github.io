@@ -9,5 +9,5 @@ permalink: /
 <!-- <br/><br/> -->
 <div class="opening">
 <img src="{{site.baseurl}}/assets/images/me.jpg" alt="That's me!">
-I am a postdoctoral research fellow at the <a href="https://warwick.ac.uk/fac/sci/maths/">Mathematics Institute</a> at the University of Warwick under the supervision of <a href="http://homepages.warwick.ac.uk/staff/H.Liu.9/">Hong Liu</a>. My research interests are in the areas of extremal and probabilistic combinatorics, Ramsey theory and random graphs.
+I am a young Brazilian mathematician looking for a new institution. I was a Doctorate student at <a href="https://impa.br/en_US/">IMPA</a> under the supervision of <a href="http://w3.impa.br/~rob/">Rob Morris</a>. My research interests are in the areas of extremal and probabilistic combinatorics, Ramsey theory and random graphs.
 </div>
