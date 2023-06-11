@@ -21,28 +21,45 @@ I am a visiting the Combinatorics group at [IMPA](https://impa.br/en_US/).
 <ol>
 <li><div class="collapsible">
   Pedro Araújo
-</div><div class="content">
+</div>
+<div class="content">
 <br/>{% include_relative publications/articles/anti-Ramsey.html %}
 <br/></div></li>
 
 <li><div class="collapsible">
   Sören Berger
-</div><div class="content">
+</div>
+<div class="content">
 <br/>{% include_relative publications/articles/size-Ramsey.html %}
+<br/></div></li>
+
+<li><div class="collapsible">
+  Fábio Botler
+</div>
+<div class="content">
+<br/>{% include_relative publications/livro-combinatoria.html %}
+<br/></div></li>
+
+<li><div class="collapsible">
+  Maurício Collares
+</div>
+<div class="content">
+<br/>{% include_relative publications/livro-combinatoria.html %}
 <br/></div></li>
 
 <li><div class="collapsible">
   Jan Corsten
-</div><div class="content">
+</div>
+<div class="content">
 <br/>{% include_relative publications/articles/tiling.html %}
-<br/></div></li>
+<br/> </div></li>
 
 <li><div class="collapsible">
   Yoshiharu Kohayakawa 
 </div><div class="content">
-<br/>{% include_relative publications/articles/size-Ramsey.html %}
-<br/>{% include_relative publications/articles/monotrees.html %}
 <br/>{% include_relative publications/articles/anti-Ramsey.html %}
+<br/>{% include_relative publications/articles/monotrees.html %}
+<br/>{% include_relative publications/articles/size-Ramsey.html %}
 <br/></div></li>
 
 <li><div class="collapsible">
@@ -60,15 +77,16 @@ I am a visiting the Combinatorics group at [IMPA](https://impa.br/en_US/).
 <li><div class="collapsible">
   Taísa Martins 
 </div><div class="content">
-<br/>{% include_relative publications/articles/size-Ramsey.html %}
+<br/>{% include_relative publications/livro-combinatoria.html %}
 <br/>{% include_relative publications/articles/anti-Ramsey.html %}
+<br/>{% include_relative publications/articles/size-Ramsey.html %}
 <br/></div></li>
 
 <li><div class="collapsible">
   Letícia Mattos 
 </div><div class="content">
-<br/>{% include_relative publications/articles/0statement.html %}
 <br/>{% include_relative publications/articles/anti-Ramsey.html %}
+<br/>{% include_relative publications/articles/0statement.html %}
 <br/></div></li>
 
 <li><div class="collapsible">
@@ -78,11 +96,19 @@ I am a visiting the Combinatorics group at [IMPA](https://impa.br/en_US/).
 <br/></div></li>
 
 <li><div class="collapsible">
+  Rob Morris
+</div>
+<div class="content">
+<br/>{% include_relative publications/livro-combinatoria.html %}
+<br/></div></li>
+
+<li><div class="collapsible">
   Guilherme O. Mota 
 </div><div class="content">
-<br/>{% include_relative publications/articles/size-Ramsey.html %}
-<br/>{% include_relative publications/articles/monotrees.html %}
+<br/>{% include_relative publications/livro-combinatoria.html %}
 <br/>{% include_relative publications/articles/anti-Ramsey.html %}
+<br/>{% include_relative publications/articles/monotrees.html %}
+<br/>{% include_relative publications/articles/size-Ramsey.html %}
 <br/></div></li>
 
 <li><div class="collapsible">
