@@ -5,6 +5,8 @@ permalink: /office/
 ---
 ## Office:
 
+Currently, I have no office :/
+But you can contact me through *walnermendonca at gmail dot com*.
 
 <!-- - Address: IMPA, Estrada Dona Castorina, 110 -->
 <!-- - City: Rio de Janeiro, Brazil -->

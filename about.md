@@ -4,7 +4,7 @@ title: /About
 permalink: /about/
 ---
 ## Currently:
-I am a visiting the Combinatorics group at [IMPA](https://impa.br/en_US/).
+I am visiting the Combinatorics group at [IMPA](https://impa.br/en_US/).
 
 ## Previously:
  - Postdoc Researcher at [IST Austria](https://ist.ac.at/home), in Klosterneuburg, Austria.
