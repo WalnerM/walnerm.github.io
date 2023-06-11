@@ -9,6 +9,10 @@ permalink: /git/
 
 >> By Leandro Chiarini and Walner Mendonça
 
+>> September 13, 2019
+
+>> Colóquio dos Alunos
+
 <br/><br/>
 
 -------------------------------------------------------------------------------
