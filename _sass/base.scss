@@ -57,7 +57,7 @@ footer { margin-bottom: 20px; }
 .menu { border-top: var(--border);  border-bottom: var(--border);  margin-bottom: 25px; }
 .menu ul { margin-top: 12px;  margin-bottom: 12px;  padding-left: 0px;  list-style-type: none;  text-align: left; }
 .menu ul li { display: inline;  margin-left: 10px; }
-.menu ul li a { text-decoration: none;  color: green; }
+.menu ul li a { text-decoration: none;  color: chartreuse; }
 .menu ul li a:hover { text-decoration: none; color: orange; transition: 0s; }
 
 /**
@@ -145,12 +145,12 @@ a{
 }
 
 a:link {
-    color: green;
+    color: chartreuse;
 }
 
 /* visited link */
 a:visited {
-    color: green;
+    color: chartreuse;
 }
 
 /* mouse over link */
@@ -183,7 +183,7 @@ a:active {
     width: 100%;
     text-align: left;
     transition: 0.4s;
-    color: green;
+    color: chartreuse;
 }
 
 .active, .collapsible:hover {
