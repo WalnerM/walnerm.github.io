@@ -57,7 +57,6 @@ I am visiting the Combinatorics group at [IMPA](https://impa.br/en_US/).
 <li><div class="collapsible">
   Yoshiharu Kohayakawa 
 </div><div class="content">
-<br/>{% include_relative publications/articles/anti-Ramsey.html %}
 <br/>{% include_relative publications/articles/monotrees.html %}
 <br/>{% include_relative publications/articles/size-Ramsey.html %}
 <br/></div></li>
