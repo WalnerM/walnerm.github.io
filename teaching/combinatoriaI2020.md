@@ -58,9 +58,10 @@ Course [description](https://impa.br/ensino/programas-de-formacao/mestrado-acade
   </tr>
 </table>
 
-<p>
+<!--<p>
 Last updated: <span id="updated"></span>.
-</p>
+</p>-->
+
 <script>
 document.getElementById("updated").innerHTML = document.lastModified;
 </script>

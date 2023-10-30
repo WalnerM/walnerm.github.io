@@ -4,7 +4,7 @@ title: /About
 permalink: /about/
 ---
 ## Currently:
-I am a Postdoc Researcher at [IME-USP](https://www.ime.usp.br/).
+I am a Postdoc Researcher at [IME-USP](https://www.ime.usp.br/), in São Paulo.
 
 ## Previously:
  - Postdoc Researcher at [IST Austria](https://ist.ac.at/home), in Klosterneuburg, Austria.

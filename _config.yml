@@ -20,7 +20,7 @@
 
 title: Walner Mendonça
 author: Walner Mendonça
-email: walner@impa.br
+email: walner@ime.usp.br
 description: >- # this means to ignore newlines until "baseurl:"
   Walner Mendonça -- Mathematician specialist in Ramsey Theory, Extremal and Probabilistic Combinatorics and Random Graphs.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -37,8 +37,8 @@ header_pages:
   - about.md
   - publications.md
   - teaching.md
-  - git.md
-  - office.md
+  # - git.md
+  # - office.md
 
 style: dark # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
