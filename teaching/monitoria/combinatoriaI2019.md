@@ -15,8 +15,8 @@ Professor: Rob Morris.
 <br>
 
 Listas de exercícios:
-- [Lista 1]({{site.baseurl}}/teaching/CombinatoriaI2019-lista1.pdf)
-- [Lista 2]({{site.baseurl}}/teaching/CombinatoriaI2019-lista2.pdf)
+- [Lista 1]({{site.baseurl}}/teaching/monitoria/CombinatoriaI2019-lista1.pdf)
+- [Lista 2]({{site.baseurl}}/teaching/monitoria/CombinatoriaI2019-lista2.pdf)
 
 <br>
 

@@ -172,9 +172,9 @@ a:active {
     display: table-cell;
 }
 .opening img{
-    width: 25%;
+    width: 30%;
     float: left;
-    padding-right: 3%;
+    padding-right: 5%;
 }
 
 
@@ -229,4 +229,12 @@ tr.strikeout td:before {
 tr.strikeout td:after {
     content: "\00B7";
     font-size: 1px;
+}
+
+button.dark-light-switch {
+		background:transparent;
+	 	// border:none;
+		color: chartreuse;
+		float: right;
+		text-align: right;
 }

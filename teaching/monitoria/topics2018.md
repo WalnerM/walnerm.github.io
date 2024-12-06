@@ -14,4 +14,4 @@ Course [description](https://impa.br/ensino/programas-de-formacao/doutorado/disc
 
 <br>
 
-Bruce's [problems sheet]({{site.baseurl}}/teaching/Minor_Exercises.pdf).
+Bruce's [problems sheet]({{site.baseurl}}/teaching/monitoria/Minor_Exercises.pdf).

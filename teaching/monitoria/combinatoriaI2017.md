@@ -14,5 +14,5 @@ Professor: Rob Morris.
 <br>
 
 Listas de exercícios:
-- [Lista 1]({{site.baseurl}}/teaching/CombinatoriaI2017-lista1.pdf)
-- [Lista 2]({{site.baseurl}}/teaching/CombinatoriaI2017-lista2.pdf)
+- [Lista 1]({{site.baseurl}}/teaching/monitoria/CombinatoriaI2017-lista1.pdf)
+- [Lista 2]({{site.baseurl}}/teaching/monitoria/CombinatoriaI2017-lista2.pdf)

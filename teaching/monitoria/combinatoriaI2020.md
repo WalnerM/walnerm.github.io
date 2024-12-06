@@ -14,8 +14,8 @@ Course [description](https://impa.br/ensino/programas-de-formacao/mestrado-acade
 
 
 ## Listas de exercícios:
-- [Lista 1]({{site.baseurl}}/teaching/CombinatoriaI2020-lista1.pdf)
-- [Lista 2]({{site.baseurl}}/teaching/CombinatoriaI2020-lista2.pdf)
+- [Lista 1]({{site.baseurl}}/teaching/monitoria/CombinatoriaI2020-lista1.pdf)
+- [Lista 2]({{site.baseurl}}/teaching/monitoria/CombinatoriaI2020-lista2.pdf)
 
 
 
