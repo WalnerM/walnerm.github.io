@@ -13,7 +13,7 @@ Professor Adjunto
 Universidade Federal do Ceará
 Departamento de Matemática
 Campus do Pici, Fortaleza, Brazil
-<a href= "mailto:walnerm@ufc.br">walnerm@ufc.br</a>
+<a href= "mailto:walner@mat.ufc.br">walner@mat.ufc.br</a>
 </p>
 </div>
 

@@ -231,6 +231,19 @@ tr.strikeout td:after {
     font-size: 1px;
 }
 
+#provas th:nth-child(2), #provas td:nth-child(2) 
+{
+    text-align: center; 
+}
+#provas tr:first-child{
+		border-bottom: 1px solid #555;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 button.dark-light-switch {
 		background:transparent;
 	 	// border:none;
