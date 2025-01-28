@@ -12,4 +12,4 @@ permalink: /teaching/geometria242/
 - [AP2]({{site.baseurl}}/teaching/geometria242/ap2.pdf) -- primeira chamada.
 
 ## Listas de exercícios:
-- [Lista 1]({{site.baseurl}}/teaching/calculo242/lista-ap2.pdf)
+- [Lista 1]({{site.baseurl}}/teaching/geometria242/lista-ap2.pdf)
