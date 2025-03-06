@@ -13,6 +13,10 @@ body {text-align: justify}
 ## Calendário 2024.2
 Preparei um [calendário]({{site.baseurl}}/teaching/calculo242/agenda-calculo-fundamental.pdf) com os tópicos das aulas do primeiro subperíodo da disciplina. Vale ressaltar que o calendário está sujeito a possíveis mudanças nos tópicos e nas datas.
 
+## Provas:
+- [AP1.1]({{site.baseurl}}/teaching/calculo242/ap1-1v1.pdf)
+- [AP1.2]({{site.baseurl}}/teaching/calculo242/ap1-2.pdf)
+
 ## Listas de exercícios:
 - [Lista 1]({{site.baseurl}}/teaching/calculo242/lista1.pdf)
 - [Lista 2]({{site.baseurl}}/teaching/calculo242/lista2.pdf)
