@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Topics in Extremal and Probabilistic Combinatorics (2018)
-permalink: /teaching/topics2018/
+permalink: /teaching/monitoria/topics2018/
 ---
 
 # Topics in Extremal and Probabilistic Combinatorics (2018)

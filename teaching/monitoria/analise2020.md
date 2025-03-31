@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introdução à Análise (2020)
-permalink: /teaching/analise2020/
+permalink: /teaching/monitoria/analise2020/
 ---
 
 # Introdução à Análise (2020)

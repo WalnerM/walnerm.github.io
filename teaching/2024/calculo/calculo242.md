@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cálculo Fundamental (2024.2)
-permalink: /teaching/calculo242/
+permalink: /teaching/2024/calculo/
 ---
 <style>
 body {text-align: justify}
@@ -11,15 +11,15 @@ body {text-align: justify}
 # Cálculo Fundamental (2024.2)
 
 ## Calendário 2024.2
-Preparei um [calendário]({{site.baseurl}}/teaching/calculo242/agenda-calculo-fundamental.pdf) com os tópicos das aulas do primeiro subperíodo da disciplina. Vale ressaltar que o calendário está sujeito a possíveis mudanças nos tópicos e nas datas.
+Preparei um [calendário]({{site.baseurl}}/teaching/2024/calculo/agenda-calculo-fundamental.pdf) com os tópicos das aulas do primeiro subperíodo da disciplina. Vale ressaltar que o calendário está sujeito a possíveis mudanças nos tópicos e nas datas.
 
 ## Provas:
-- [AP1.1]({{site.baseurl}}/teaching/calculo242/ap1-1v1.pdf)
-- [AP1.2]({{site.baseurl}}/teaching/calculo242/ap1-2.pdf)
+- [AP1.1]({{site.baseurl}}/teaching/2024/calculo/ap1-1v1.pdf)
+- [AP1.2]({{site.baseurl}}/teaching/2024/calculo/ap1-2.pdf)
 
 ## Listas de exercícios:
-- [Lista 1]({{site.baseurl}}/teaching/calculo242/lista1.pdf)
-- [Lista 2]({{site.baseurl}}/teaching/calculo242/lista2.pdf)
+- [Lista 1]({{site.baseurl}}/teaching/2024/calculo/lista1.pdf)
+- [Lista 2]({{site.baseurl}}/teaching/2024/calculo/lista2.pdf)
 
 ## Provas
 <br>

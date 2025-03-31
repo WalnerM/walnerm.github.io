@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Combinatória I (2019)
-permalink: /teaching/combinatoriaI2019/
+permalink: /teaching/monitoria/combinatoriaI2019/
 ---
 
 # Combinatória I (2019)

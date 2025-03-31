@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Combinatória I (2017)
-permalink: /teaching/combinatoriaI2017/
+permalink: /teaching/monitoria/combinatoriaI2017/
 ---
 
 # Combinatória I (2017)
