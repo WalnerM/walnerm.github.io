@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 # Cursos em andamento
-  - [Tópicos de Combinatória]({{site.baseurl}}/teaching/2025/combinatoria) (2025.1)
+  - [Tópicos em Combinatória]({{site.baseurl}}/teaching/2025/combinatoria) (2025.1)
 
 # Cursos anteriores
   - [Cálculo Fundamental]({{site.baseurl}}/teaching/2024/calculo) (2024.2)
