@@ -10,7 +10,7 @@ permalink: /publications/
 
 <li>
 <p><b>Degree conditions for Ramsey goodness of paths.</b></p>
-<p>L. Aragão, J. Marciano, and W. Mendonç-aa</p>
+<p>L. Aragão, J. Marciano, and W. Mendonça</p>
 <p>European Journal of Combinatorics, v.124, p.104082, 2024.</p>
 <br></li>
 
@@ -53,8 +53,8 @@ permalink: /publications/
 <li>
 <p><b>Combinatória.</b></p>
 <p>F. Botler, M. Collares, T. Martins, W. Mendonça, R. Morris, and G. O. Mota.</p>
-<p><i><a href="https://impa.br/wp-content/uploads/2022/01/33CBM02-eBook.pdf">Livro</a>. 33º Colóquio Brasileiro de Matemática. Editora do IMPA, p. 318, 2021. </i></p>
-<p>Prêmio Elon Lages Lima 2023.</p>
+<p><i><a href="https://impa.br/wp-content/uploads/2022/01/33CBM02-eBook.pdf">Livro</a>. 33º Colóquio Brasileiro de Matemática. Editora do IMPA, 2021. </i></p>
+<p><a href="https://sbm.org.br/noticias/premio-elon-lages-lima-conheca-a-ultima-obra-vencedora-da-premiacao-da-sbm-sbmac/">Prêmio Elon Lages Lima 2023.</a></p>
 <br></li>
 
 <li>
