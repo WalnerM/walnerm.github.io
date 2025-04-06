@@ -22,6 +22,9 @@ Nome da disciplina na Pós-graduação: <b>Introdução à Combinatória</b> (CC
 - [Cronograma]({{site.baseurl}}/teaching/2025/combinatoria/cronograma.pdf)
 - [Livro](https://impa.br/wp-content/uploads/2022/01/33CBM02-eBook.pdf)
 
+# Notas de aulas
+- [Fluxos em redes]({{site.baseurl}}/teaching/2025/combinatoria/notas-fluxos.pdf)
+
 # Datas das provas
 - AP1: 09/05/2025
 - AP2: 13/06/2025
