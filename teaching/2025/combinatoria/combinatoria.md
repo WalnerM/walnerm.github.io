@@ -25,6 +25,9 @@ Nome da disciplina na Pós-graduação: <b>Introdução à Combinatória</b> (CC
 # Notas de aulas
 - [Fluxos em redes]({{site.baseurl}}/teaching/2025/combinatoria/notas-fluxos.pdf)
 
+# Lista de exercíciso
+- [Lista 1]({{site.baseurl}}/teaching/2025/combinatoria/lista1.pdf)
+
 # Datas das provas
 - AP1: 09/05/2025
 - AP2: 13/06/2025
