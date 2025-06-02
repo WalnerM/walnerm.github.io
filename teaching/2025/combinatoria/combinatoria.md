@@ -30,6 +30,7 @@ As datas entre parênteses indicam a data máxima para entregar as soluções.
 - [Lista 1]({{site.baseurl}}/teaching/2025/combinatoria/lista1.pdf) (18/04/2025)
 - [Lista 2]({{site.baseurl}}/teaching/2025/combinatoria/lista2.pdf) (30/04/2025)
 - [Lista 3]({{site.baseurl}}/teaching/2025/combinatoria/lista3.pdf) (09/05/2025)
+- [Lista 4]({{site.baseurl}}/teaching/2025/combinatoria/lista4.pdf) (13/06/2025)
 
 # Datas das provas
 O conteúdo da prova será baseado nos capítulos do livro indicado entre parênteses.
