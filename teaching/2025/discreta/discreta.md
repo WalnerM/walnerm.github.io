@@ -16,5 +16,5 @@ Local: Bloco 919, sala 02.</p>
 <br>
 # Informações
 - [Plano de ensino]({{site.baseurl}}/teaching/2025/discreta/plano.pdf)
-- [Cronograma]({{site.baseurl}}/teaching/2025/discreta/cronograma.pdf)
+- [Calendário]({{site.baseurl}}/teaching/2025/discreta/calendario.pdf)
 - [Notas de aulas]({{site.baseurl}}/teaching/2025/discreta/main.pdf)
