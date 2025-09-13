@@ -7,7 +7,7 @@ permalink: /teaching/2025/discreta/
 body {text-align: justify}
 </style>
 
-# Matemática Discreta (2025.1)
+# Matemática Discreta (2025.2)
 
 <br>
 <p>Horário: Seg-Qua-Sex, de 16h às 18h
