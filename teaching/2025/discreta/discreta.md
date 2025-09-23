@@ -18,3 +18,14 @@ Local: Bloco 919, sala 02.</p>
 - [Plano de ensino]({{site.baseurl}}/teaching/2025/discreta/plano.pdf)
 - [Calendário]({{site.baseurl}}/teaching/2025/discreta/calendario.pdf)
 - [Notas de aulas]({{site.baseurl}}/teaching/2025/discreta/main.pdf)
+
+<br>
+# Listas de problemas
+- [Lista 1]({{site.baseurl}}/teaching/2025/discreta/lista1.pdf)
+
+<br>
+# Datas das provas
+- **AP1**: 15/10/2025 
+- **AP2**: 26/11/2025 
+- **AP3**: 19/01/2025 
+- **APS**: 23/01/2025 
