@@ -20,3 +20,6 @@ Local: Bloco 919, sala 01.
 # Informações
 - [Plano de ensino]({{site.baseurl}}/teaching/2025/calculo/plano.pdf)
 - [Calendário]({{site.baseurl}}/teaching/2025/calculo/calendario.pdf)
+
+# Lista de exercícios
+- [Lista 1]({{site.baseurl}}/teaching/2025/calculo/lista1.pdf) 
