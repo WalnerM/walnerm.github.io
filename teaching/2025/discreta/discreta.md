@@ -22,7 +22,7 @@ Local: Bloco 919, sala 02.</p>
 # Listas de problemas
 - [Lista 1]({{site.baseurl}}/teaching/2025/discreta/lista1.pdf)
 - [Lista 2]({{site.baseurl}}/teaching/2025/discreta/lista2.pdf)
-- [Lista 2]({{site.baseurl}}/teaching/2025/discreta/lista3.pdf)
+- [Lista 3]({{site.baseurl}}/teaching/2025/discreta/lista3.pdf)
 
 # Datas das provas
 - **AP1**: 15/10/2025 
