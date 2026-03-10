@@ -18,4 +18,4 @@ Local: Bloco 914, sala de seminário 2.</p>
 - [Cronograma]({{site.baseurl}}/teaching/2025/mtdprob/cronograma.pdf)
 
 # Provas
-- [AP]({{site.baseurl}}/teaching/2025/mtdprob/MetProb-Topicos.pdf) (06/08/2025)
+- [AP]({{site.baseurl}}/teaching/2025/mtdprob/MtdProb-Topicos.pdf) (06/08/2025)
