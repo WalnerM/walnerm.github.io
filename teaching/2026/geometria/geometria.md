@@ -18,10 +18,6 @@ Local: Bloco 919, sala 01</p>
 - [Plano de ensino]({{site.baseurl}}/teaching/2026/geometria/plano.pdf)
 - [Calendário]({{site.baseurl}}/teaching/2026/geometria/calendario.pdf)
 
-# Listas de problemas
-- [Lista 1]({{site.baseurl}}/teaching/2026/geometria/lista1.pdf)
-
-
 # Datas das provas
 - **AP1**: 28/04/2026
 - **AP2**: 07/07/2026
