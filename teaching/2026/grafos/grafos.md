@@ -8,14 +8,18 @@ body {text-align: justify}
 </style>
 
 # Introdução à Teoria dos Grafos (2026.2)
-
-<br>
 <p>Horário: Ter-Qui, das 13h às 16h.
 Local: Bloco 918, 5º andar, sala 01.</p>
-
 <br>
+
 # Informações
 - [Plano de ensino e calendário]({{site.baseurl}}/teaching/2026/grafos/plano-e-calendario.pdf)
+<br>
+
+# Notas de Aula
+- [Notas de Aula]({{site.baseurl}}/teaching/2026/grafos/notas.pdf)
+- [Notas de Aula do Júlio]({{site.baseurl}}/teaching/2026/grafos/Notas_de_aula___Teoria_dos_Grafos.pdf)
+<br>
 
 # Datas das provas
 - **AP1**: 15/09/2026 — West, Caps. 1, 2 e 3
