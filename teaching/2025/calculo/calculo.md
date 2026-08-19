@@ -3,9 +3,6 @@ layout: page
 title: Cálculo Diferencial e Integral I (2025.2)
 permalink: /teaching/2025/calculo/
 ---
-<style>
-body {text-align: justify}
-</style>
 
 # Cálculo Diferencial e Integral I (2025.2)
 <p>

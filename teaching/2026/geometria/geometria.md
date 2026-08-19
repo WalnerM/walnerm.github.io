@@ -3,9 +3,6 @@ layout: page
 title: Geometria Analítica Vetorial (2026.1)
 permalink: /teaching/2026/geometria/
 ---
-<style>
-body {text-align: justify}
-</style>
 
 # Geometria Analítica Vetorial (2026.1)
 

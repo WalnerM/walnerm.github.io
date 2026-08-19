@@ -3,9 +3,6 @@ layout: page
 title: Tópicos em Combinatória (2025.2)
 permalink: /teaching/2025/combinatoria/
 ---
-<style>
-body {text-align: justify}
-</style>
 
 # Tópicos em Combinatória (2025.1)
 

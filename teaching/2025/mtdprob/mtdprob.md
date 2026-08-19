@@ -3,9 +3,6 @@ layout: page
 title: Métodos Probabilísiticos (2025.2)
 permalink: /teaching/2025/mtdprob/
 ---
-<style>
-body {text-align: justify}
-</style>
 
 # Métodos Probabilísticos (2025.1)
 

@@ -3,9 +3,6 @@ layout: page
 title: Elementos de Topologia (2026.1)
 permalink: /teaching/2026/topologia/
 ---
-<style>
-body {text-align: justify}
-</style>
 
 # Elementos de Topologia (2026.1)
 

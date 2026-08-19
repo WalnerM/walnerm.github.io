@@ -3,9 +3,6 @@ layout: page
 title: Matemática Discreta (2025.2)
 permalink: /teaching/2025/discreta/
 ---
-<style>
-body {text-align: justify}
-</style>
 
 # Matemática Discreta (2025.2)
 

@@ -3,9 +3,6 @@ layout: page
 title: Introdução à Teoria dos Grafos (2026.2)
 permalink: /teaching/2026/grafos/
 ---
-<style>
-body {text-align: justify}
-</style>
 
 # Introdução à Teoria dos Grafos (2026.2)
 <p>Horário: Ter-Qui, das 13h às 16h.
