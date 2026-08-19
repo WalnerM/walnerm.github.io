@@ -18,8 +18,10 @@ Local: Bloco 919, sala 01.</p>
 - [Lista 1]({{site.baseurl}}/teaching/2026/complexa/lista1.pdf) — Soares, Cap. 1
 
 # Notas de aula
-- [Aula 1: números complexos]({{site.baseurl}}/teaching/2026/complexa/aula01-numeros-complexos.pdf)
-- [Aula 3: uma aplicação dos números complexos à combinatória]({{site.baseurl}}/teaching/2026/complexa/aula03-complexos-em-combinatoria.pdf)
+- [Aula 1: polinômios e a origem dos números complexos]({{site.baseurl}}/teaching/2026/complexa/aula01-polinomios.pdf)
+- [Aula 2: dos números reais aos números complexos]({{site.baseurl}}/teaching/2026/complexa/aula02-dos-reais-aos-complexos.pdf)
+- [Aula 3: conjugado, módulo e forma polar]({{site.baseurl}}/teaching/2026/complexa/aula03-modulo-e-forma-polar.pdf)
+- [Material extra à Aula 3: uma aplicação dos números complexos à combinatória]({{site.baseurl}}/teaching/2026/complexa/aula03-complexos-em-combinatoria.pdf)
 
 <p><b>Aviso:</b> estas notas são geradas por IA a partir dos livros-texto do curso e das anotações do professor. Podem conter erros; em caso de dúvida, consulte a bibliografia do plano de ensino.</p>
 
