@@ -21,9 +21,7 @@ Local: Bloco 919, sala 01.</p>
 - [Aula 1: números complexos]({{site.baseurl}}/teaching/2026/complexa/aula01-numeros-complexos.pdf)
 - [Aula 3: uma aplicação dos números complexos à combinatória]({{site.baseurl}}/teaching/2026/complexa/aula03-complexos-em-combinatoria.pdf)
 
-<p><b>Aviso:</b> estas notas de aula são geradas por IA a partir dos livros-texto do curso e das
-anotações do professor. Elas servem apenas como material de apoio ao que foi visto em sala e podem
-conter erros; em caso de dúvida, consulte a bibliografia indicada no plano de ensino.</p>
+<p style="text-align: left"><b>Aviso:</b> estas notas são geradas por IA a partir dos livros-texto do curso e das anotações do professor. Podem conter erros; em caso de dúvida, consulte a bibliografia do plano de ensino.</p>
 
 # Datas das provas
 - **AP1**: 17/09/2026 — Soares, Caps. 1–3
