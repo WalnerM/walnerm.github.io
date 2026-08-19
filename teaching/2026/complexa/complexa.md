@@ -31,5 +31,4 @@ Local: Bloco 919, sala 01.</p>
 - **AP3**: 10/12/2026 — Soares, Caps. 6 e 7
 - **AF**: 17/12/2026 — todo o conteúdo do curso (Caps. 1–7)
 
-<p>Quem faltar a uma prova tem direito à segunda chamada: basta pedir por e-mail em até 3 dias
-depois da data da prova; a data a gente combina.</p>
+<p>Quem faltar a uma prova tem direito à segunda chamada: basta pedir por e-mail em até 3 dias depois da data da prova; a data a gente combina.</p>

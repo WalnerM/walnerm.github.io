@@ -24,5 +24,4 @@ Local: Bloco 918, 5º andar, sala 01.</p>
 - **AP3**: 08/12/2026 — West, Caps. 6, 7 e 8
 - **AF**: 15/12/2026 — todo o conteúdo do curso
 
-<p>Quem faltar a uma prova tem direito à segunda chamada: basta pedir por e-mail em até 3 dias
-depois da data da prova.</p>
+<p>Quem faltar a uma prova tem direito à segunda chamada: basta pedir por e-mail em até 3 dias depois da data da prova.</p>
