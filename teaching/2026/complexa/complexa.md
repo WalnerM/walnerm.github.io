@@ -14,6 +14,9 @@ Local: Bloco 919, sala 01.</p>
 # Informações
 - [Plano de ensino e calendário]({{site.baseurl}}/teaching/2026/complexa/plano-e-calendario.pdf)
 
+# Listas de problemas
+- [Lista 1]({{site.baseurl}}/teaching/2026/complexa/lista1.pdf) — Soares, Cap. 1
+
 # Notas de aula
 - [Aula 1: números complexos]({{site.baseurl}}/teaching/2026/complexa/aula01-numeros-complexos.pdf)
 - [Aula 3: uma aplicação dos números complexos à combinatória]({{site.baseurl}}/teaching/2026/complexa/aula03-complexos-em-combinatoria.pdf)
