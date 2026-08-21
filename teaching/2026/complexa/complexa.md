@@ -2,6 +2,8 @@
 layout: page
 title: Variável Complexa (2026.2)
 permalink: /teaching/2026/complexa/
+last_updated: 2026-08-21 02:52:00 -0300
+update_note: Notas da Aula 4 publicadas; Lista 1 e calendário atualizados.
 ---
 
 # Variável Complexa (2026.2)
@@ -9,6 +11,8 @@ permalink: /teaching/2026/complexa/
 <br>
 <p>Horário: Ter-Qui, das 08h às 10h.
 Local: Bloco 919, sala 01.</p>
+
+{% include last-updated.html %}
 
 <br>
 # Informações

@@ -1,0 +1,21 @@
+{%- comment -%}
+Carimbo de "última atualização" das páginas de disciplina.
+
+Alimentado por dois campos do front matter da página:
+
+  last_updated: 2026-08-21 02:52:00 -0300   # data/hora; obrigatório
+  update_note: Lista 1 atualizada.          # frase curta; opcional
+
+A data é formatada no fuso de `timezone` do _config.yml (America/Fortaleza),
+e não no fuso da máquina que roda o build — a CI do GitHub roda em UTC.
+
+Chame com {% raw %}{% include last-updated.html %}{% endraw %} no ponto da página em que o
+carimbo deve aparecer. Sem `last_updated`, o include não imprime nada.
+
+O conteúdo do <p> fica todo em uma linha de propósito: `base.scss` aplica
+`white-space: pre-wrap` a todo <p>, então quebras de linha aqui virariam
+quebras de linha na página.
+{%- endcomment -%}
+{%- if page.last_updated -%}
+<p class="last-updated"><b>Última atualização:</b> {{ page.last_updated | date: "%d/%m/%Y, %Hh%M" }}{% if page.update_note %} — <span class="primary-text">{{ page.update_note }}</span>{% endif %}</p>
+{%- endif -%}

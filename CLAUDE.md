@@ -85,6 +85,26 @@ com `--baseurl` vindo do `actions/configure-pages`.
 
 Idioma: `index.md` e `publications.md` estão em inglês; todo o material de ensino está em português.
 
+### Carimbo de "última atualização"
+
+As páginas de disciplina podem exibir quando foram atualizadas pela última vez e o que mudou, para
+que o aluno saiba se vale a pena rebaixar os PDFs. São dois campos opcionais no front matter da
+página, renderizados por `_includes/last-updated.html`:
+
+```yaml
+last_updated: 2026-08-21 02:52:00 -0300
+update_note: Notas da Aula 4 publicadas; Lista 1 e calendário atualizados.
+```
+
+O include é chamado explicitamente (`{% raw %}{% include last-updated.html %}{% endraw %}`) no ponto da página em que o
+carimbo deve aparecer — hoje, logo abaixo do horário/local. Sem `last_updated` ele não imprime nada,
+então páginas que não usam os campos ficam intactas. Ao publicar material novo, atualize os **dois**
+campos junto com os PDFs, no mesmo commit.
+
+A hora é formatada pelo filtro `date` do Liquid no fuso de `timezone` do `_config.yml`
+(`America/Fortaleza`). Esse ajuste é necessário: sem ele o build da CI, que roda em UTC, mostraria
+três horas a mais.
+
 ### Adicionar uma disciplina nova
 
 1. Criar `teaching/<ano>/<disciplina>/<disciplina>.md` copiando uma página existente (ex.:

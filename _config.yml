@@ -32,6 +32,11 @@ github_username:  WalnerM
 # theme: minima
 theme: jekyll-theme-console
 
+# Fuso usado pelo filtro `date` do Liquid, de que depende o carimbo de
+# "última atualização" das páginas de disciplina. Sem isso, o build da CI
+# (que roda em UTC) mostraria as datas com três horas a mais.
+timezone: America/Fortaleza
+
 header_pages:
   - index.md
   - publications.md
