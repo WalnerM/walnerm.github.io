@@ -105,6 +105,8 @@ A hora é formatada pelo filtro `date` do Liquid no fuso de `timezone` do `_conf
 (`America/Fortaleza`). Esse ajuste é necessário: sem ele o build da CI, que roda em UTC, mostraria
 três horas a mais.
 
+Hoje as páginas de Variável Complexa e de Introdução à Teoria dos Grafos usam os campos.
+
 ### Adicionar uma disciplina nova
 
 1. Criar `teaching/<ano>/<disciplina>/<disciplina>.md` copiando uma página existente (ex.:
