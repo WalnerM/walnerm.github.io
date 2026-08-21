@@ -22,6 +22,7 @@ Local: Bloco 919, sala 01.</p>
 - [Aula 2: dos números reais aos números complexos]({{site.baseurl}}/teaching/2026/complexa/aula02-dos-reais-aos-complexos.pdf)
 - [Aula 3: conjugado, módulo e forma polar]({{site.baseurl}}/teaching/2026/complexa/aula03-modulo-e-forma-polar.pdf)
 - [Material extra à Aula 3: uma aplicação dos números complexos à combinatória]({{site.baseurl}}/teaching/2026/complexa/aula03-complexos-em-combinatoria.pdf)
+- [Aula 4: curvas no plano; abertos e fechados]({{site.baseurl}}/teaching/2026/complexa/aula04-curvas-abertos-e-fechados.pdf)
 
 <p><b>Aviso:</b> estas notas são geradas por IA a partir dos livros-texto do curso e das anotações do professor. Podem conter erros; em caso de dúvida, consulte a bibliografia do plano de ensino.</p>
 
