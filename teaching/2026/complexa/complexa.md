@@ -28,8 +28,6 @@ Local: Bloco 919, sala 01.</p>
 - [Material extra à Aula 3: uma aplicação dos números complexos à combinatória]({{site.baseurl}}/teaching/2026/complexa/aula03-complexos-em-combinatoria.pdf)
 - [Aula 4: curvas no plano; abertos e fechados]({{site.baseurl}}/teaching/2026/complexa/aula04-curvas-abertos-e-fechados.pdf)
 
-<p><b>Aviso:</b> estas notas são geradas por IA a partir dos livros-texto do curso e das anotações do professor. Podem conter erros; em caso de dúvida, consulte a bibliografia do plano de ensino.</p>
-
 # Datas das provas
 - **AP1**: 17/09/2026 — Soares, Caps. 1–3
 - **AP2**: 29/10/2026 — Soares, Caps. 4 e 5
