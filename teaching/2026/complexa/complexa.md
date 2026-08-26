@@ -2,8 +2,8 @@
 layout: page
 title: Variável Complexa (2026.2)
 permalink: /teaching/2026/complexa/
-last_updated: 2026-08-21 02:52:00 -0300
-update_note: Notas da Aula 4 publicadas; Lista 1 e calendário atualizados.
+last_updated: 2026-08-26 02:28:00 -0300
+update_note: Notas da Aula 5 publicadas.
 ---
 
 # Variável Complexa (2026.2)
@@ -27,6 +27,7 @@ Local: Bloco 919, sala 01.</p>
 - [Aula 3: conjugado, módulo e forma polar]({{site.baseurl}}/teaching/2026/complexa/aula03-modulo-e-forma-polar.pdf)
 - [Material extra à Aula 3: uma aplicação dos números complexos à combinatória]({{site.baseurl}}/teaching/2026/complexa/aula03-complexos-em-combinatoria.pdf)
 - [Aula 4: curvas no plano; abertos e fechados]({{site.baseurl}}/teaching/2026/complexa/aula04-curvas-abertos-e-fechados.pdf)
+- [Aula 5: caminhos suaves e domínios]({{site.baseurl}}/teaching/2026/complexa/aula05-caminhos-suaves-e-dominios.pdf)
 
 # Datas das provas
 - **AP1**: 17/09/2026 — Soares, Caps. 1–3
