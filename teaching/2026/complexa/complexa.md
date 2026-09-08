@@ -2,8 +2,8 @@
 layout: page
 title: Variável Complexa (2026.2)
 permalink: /teaching/2026/complexa/
-last_updated: 2026-08-26 02:28:00 -0300
-update_note: Notas da Aula 5 publicadas.
+last_updated: 2026-09-07 22:00:00 -0300
+update_note: Lista 2 e notas da Aula 6 publicadas.
 ---
 
 # Variável Complexa (2026.2)
@@ -20,6 +20,7 @@ Local: Bloco 919, sala 01.</p>
 
 # Listas de problemas
 - [Lista 1]({{site.baseurl}}/teaching/2026/complexa/lista1.pdf) — Soares, Cap. 1
+- [Lista 2]({{site.baseurl}}/teaching/2026/complexa/lista2.pdf) — Soares, Cap. 2
 
 # Notas de aula
 - [Aula 1: polinômios e a origem dos números complexos]({{site.baseurl}}/teaching/2026/complexa/aula01-polinomios.pdf)
@@ -28,6 +29,7 @@ Local: Bloco 919, sala 01.</p>
 - [Material extra à Aula 3: uma aplicação dos números complexos à combinatória]({{site.baseurl}}/teaching/2026/complexa/aula03-complexos-em-combinatoria.pdf)
 - [Aula 4: curvas no plano; abertos e fechados]({{site.baseurl}}/teaching/2026/complexa/aula04-curvas-abertos-e-fechados.pdf)
 - [Aula 5: caminhos suaves e domínios]({{site.baseurl}}/teaching/2026/complexa/aula05-caminhos-suaves-e-dominios.pdf)
+- [Aula 6: comprimento, integrais de linha e o Teorema de Green]({{site.baseurl}}/teaching/2026/complexa/aula06-integrais-de-linha-e-green.pdf)
 
 # Datas das provas
 - **AP1**: 17/09/2026 — Soares, Caps. 1–3
