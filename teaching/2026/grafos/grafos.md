@@ -2,8 +2,8 @@
 layout: page
 title: Introdução à Teoria dos Grafos (2026.2)
 permalink: /teaching/2026/grafos/
-last_updated: 2026-09-08 02:45:00 -0300
-update_note: Lista 1 publicada.
+last_updated: 2026-09-08 03:15:00 -0300
+update_note: Lista 1 atualizada, com novos problemas sobre o grafo de Petersen.
 ---
 
 # Introdução à Teoria dos Grafos (2026.2)
