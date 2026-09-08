@@ -2,8 +2,8 @@
 layout: page
 title: Introdução à Teoria dos Grafos (2026.2)
 permalink: /teaching/2026/grafos/
-last_updated: 2026-09-08 02:30:00 -0300
-update_note: Notas das Aulas 1-6 publicadas; plano, calendário e datas das provas atualizados.
+last_updated: 2026-09-08 02:45:00 -0300
+update_note: Lista 1 publicada.
 ---
 
 # Introdução à Teoria dos Grafos (2026.2)
@@ -16,6 +16,10 @@ Local: Bloco 918, 5º andar, sala 01.</p>
 
 # Informações
 - [Plano de ensino e calendário]({{site.baseurl}}/teaching/2026/grafos/plano-e-calendario.pdf)
+<br>
+
+# Listas de problemas
+- [Lista 1]({{site.baseurl}}/teaching/2026/grafos/lista1.pdf) — West, primeira metade do Cap. 1
 <br>
 
 # Notas de aula
