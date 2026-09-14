@@ -2,8 +2,8 @@
 layout: page
 title: Variável Complexa (2026.2)
 permalink: /teaching/2026/complexa/
-last_updated: 2026-09-08 20:00:00 -0300
-update_note: Calendário atualizado — AP1 adiada para 24/09.
+last_updated: 2026-09-14 00:00:00 -0300
+update_note: Notas das Aulas 7 e 8 adicionadas.
 ---
 
 # Variável Complexa (2026.2)
@@ -30,6 +30,8 @@ Local: Bloco 919, sala 01.</p>
 - [Aula 4: curvas no plano; abertos e fechados]({{site.baseurl}}/teaching/2026/complexa/aula04-curvas-abertos-e-fechados.pdf)
 - [Aula 5: caminhos suaves e domínios]({{site.baseurl}}/teaching/2026/complexa/aula05-caminhos-suaves-e-dominios.pdf)
 - [Aula 6: comprimento, integrais de linha e o Teorema de Green]({{site.baseurl}}/teaching/2026/complexa/aula06-integrais-de-linha-e-green.pdf)
+- [Aula 7: funções complexas, limites e sequências]({{site.baseurl}}/teaching/2026/complexa/aula07-funcoes-complexas-e-continuidade.pdf)
+- [Aula 8: continuidade; a derivada complexa e as equações de Cauchy-Riemann]({{site.baseurl}}/teaching/2026/complexa/aula08-a-derivada-complexa-e-cauchy-riemann.pdf)
 
 # Datas das provas
 - **AP1**: 24/09/2026 — Soares, Caps. 1–3
