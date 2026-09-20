@@ -2,8 +2,8 @@
 layout: page
 title: Introdução à Teoria dos Grafos (2026.2)
 permalink: /teaching/2026/grafos/
-last_updated: 2026-09-08 03:25:00 -0300
-update_note: Lista 1 atualizada (removida a redundância entre os Problemas 18 e 19).
+last_updated: 2026-09-20 00:03:00 -0300
+update_note: Publicadas as notas das Aulas 7-10, as Listas 2 e 3, e atualizados a Lista 1 e o plano/calendário.
 ---
 
 # Introdução à Teoria dos Grafos (2026.2)
@@ -19,7 +19,9 @@ Local: Bloco 918, 5º andar, sala 01.</p>
 <br>
 
 # Listas de problemas
-- [Lista 1]({{site.baseurl}}/teaching/2026/grafos/lista1.pdf) — West, primeira metade do Cap. 1
+- [Lista 1]({{site.baseurl}}/teaching/2026/grafos/lista1.pdf) — Aulas 1–4, West primeira metade do Cap. 1
+- [Lista 2]({{site.baseurl}}/teaching/2026/grafos/lista2.pdf) — Aulas 5–8
+- [Lista 3]({{site.baseurl}}/teaching/2026/grafos/lista3.pdf) — Aulas 3, 5–10
 <br>
 
 # Notas de aula
@@ -29,6 +31,10 @@ Local: Bloco 918, 5º andar, sala 01.</p>
 - [Aula 4: automorfismos de grafos]({{site.baseurl}}/teaching/2026/grafos/aula04-automorfismos-de-grafos.pdf)
 - [Aula 5: grafos bipartidos]({{site.baseurl}}/teaching/2026/grafos/aula05-grafos-bipartidos.pdf)
 - [Aula 6: passeios, caminhos e ciclos]({{site.baseurl}}/teaching/2026/grafos/aula06-passeios-caminhos-e-ciclos.pdf)
+- [Aula 7: distância e grafos extremais]({{site.baseurl}}/teaching/2026/grafos/aula07-distancia-e-grafos-extremais.pdf)
+- [Aula 8: grafos conexos]({{site.baseurl}}/teaching/2026/grafos/aula08-grafos-conexos.pdf)
+- [Aula 9: árvores e florestas]({{site.baseurl}}/teaching/2026/grafos/aula09-arvores-e-florestas.pdf)
+- [Aula 10: resolução de exercícios (árvores)]({{site.baseurl}}/teaching/2026/grafos/aula10-resolucao-de-exercicios.pdf)
 <br>
 
 # Notas de aula do Júlio
