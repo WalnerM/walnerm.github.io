@@ -2,8 +2,8 @@
 layout: page
 title: Variável Complexa (2026.2)
 permalink: /teaching/2026/complexa/
-last_updated: 2026-09-14 00:00:00 -0300
-update_note: Notas das Aulas 7 e 8 adicionadas.
+last_updated: 2026-09-21 00:00:00 -0300
+update_note: Notas das Aulas 9 e 10 e a Lista 3 adicionadas; calendário atualizado.
 ---
 
 # Variável Complexa (2026.2)
@@ -21,6 +21,7 @@ Local: Bloco 919, sala 01.</p>
 # Listas de problemas
 - [Lista 1]({{site.baseurl}}/teaching/2026/complexa/lista1.pdf) — Soares, Cap. 1
 - [Lista 2]({{site.baseurl}}/teaching/2026/complexa/lista2.pdf) — Soares, Cap. 2
+- [Lista 3]({{site.baseurl}}/teaching/2026/complexa/lista3.pdf) — Soares, Cap. 3
 
 # Notas de aula
 - [Aula 1: polinômios e a origem dos números complexos]({{site.baseurl}}/teaching/2026/complexa/aula01-polinomios.pdf)
@@ -32,6 +33,8 @@ Local: Bloco 919, sala 01.</p>
 - [Aula 6: comprimento, integrais de linha e o Teorema de Green]({{site.baseurl}}/teaching/2026/complexa/aula06-integrais-de-linha-e-green.pdf)
 - [Aula 7: funções complexas, limites e sequências]({{site.baseurl}}/teaching/2026/complexa/aula07-funcoes-complexas-e-continuidade.pdf)
 - [Aula 8: continuidade; a derivada complexa e as equações de Cauchy-Riemann]({{site.baseurl}}/teaching/2026/complexa/aula08-a-derivada-complexa-e-cauchy-riemann.pdf)
+- [Aula 9: funções holomorfas]({{site.baseurl}}/teaching/2026/complexa/aula09-funcoes-holomorfas.pdf)
+- [Aula 10: a exponencial; o logaritmo]({{site.baseurl}}/teaching/2026/complexa/aula10-a-exponencial-e-o-logaritmo.pdf)
 
 # Datas das provas
 - **AP1**: 24/09/2026 — Soares, Caps. 1–3
