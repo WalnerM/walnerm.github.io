@@ -2,8 +2,8 @@
 layout: page
 title: Variável Complexa (2026.2)
 permalink: /teaching/2026/complexa/
-last_updated: 2026-09-21 00:00:00 -0300
-update_note: Notas das Aulas 9 e 10 e a Lista 3 adicionadas; calendário atualizado.
+last_updated: 2026-09-29 14:26:00 -0300
+update_note: Adicionada a data da 2ª chamada da AP1.
 ---
 
 # Variável Complexa (2026.2)
@@ -38,6 +38,7 @@ Local: Bloco 919, sala 01.</p>
 
 # Datas das provas
 - **AP1**: 24/09/2026 — Soares, Caps. 1–3
+- **AP1 (2ª chamada)**: 03/10/2026, 8h, sala de seminários do Bloco 914
 - **AP2**: 29/10/2026 — Soares, Caps. 4 e 5
 - **AP3**: 10/12/2026 — Soares, Caps. 6 e 7
 - **AF**: 17/12/2026 — todo o conteúdo do curso (Caps. 1–7)

@@ -2,8 +2,8 @@
 layout: page
 title: Introdução à Teoria dos Grafos (2026.2)
 permalink: /teaching/2026/grafos/
-last_updated: 2026-09-20 00:03:00 -0300
-update_note: Publicadas as notas das Aulas 7-10, as Listas 2 e 3, e atualizados a Lista 1 e o plano/calendário.
+last_updated: 2026-09-29 14:26:00 -0300
+update_note: Adicionada a data da 2ª chamada da AP1.
 ---
 
 # Introdução à Teoria dos Grafos (2026.2)
@@ -43,6 +43,7 @@ Local: Bloco 918, 5º andar, sala 01.</p>
 
 # Datas das provas
 - **AP1**: 22/09/2026 — West, Caps. 1 e 2
+- **AP1 (2ª chamada)**: 03/10/2026, 8h, sala de seminários do Bloco 914
 - **AP2**: 03/11/2026 — West, Caps. 3, 4 e 5
 - **AP3**: 15/12/2026 — West, Caps. 6, 7 e 8
 - **AF**: 17/12/2026 — todo o conteúdo do curso (Caps. 1–8)
